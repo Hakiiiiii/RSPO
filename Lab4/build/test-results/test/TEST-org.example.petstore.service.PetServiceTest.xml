@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.petstore.service.PetServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-02T18:28:46" hostname="DESKTOP-29SOIIJ" time="0.03">
+  <properties/>
+  <testcase name="testGetPetById()" classname="org.example.petstore.service.PetServiceTest" time="0.03"/>
+  <system-out><![CDATA[01:28:44.992 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.example.petstore.service.PetServiceTest]: PetServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+01:28:45.060 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.example.petstore.PetStoreApplication for test class org.example.petstore.service.PetServiceTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2025-03-03T01:28:45.352+07:00  INFO 13460 --- [    Test worker] o.e.petstore.service.PetServiceTest      : Starting PetServiceTest using Java 21.0.6 with PID 13460 (started by KRIKOO in C:\Lab4)
+2025-03-03T01:28:45.353+07:00  INFO 13460 --- [    Test worker] o.e.petstore.service.PetServiceTest      : No active profile set, falling back to 1 default profile: "default"
+2025-03-03T01:28:46.186+07:00  INFO 13460 --- [    Test worker] o.e.petstore.service.PetServiceTest      : Started PetServiceTest in 1.008 seconds (process running for 1.804)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
